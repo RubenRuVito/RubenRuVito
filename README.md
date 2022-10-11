@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi 👋, I'm Matheus
+Dev apaixonado por aprender coisas novas
+
+matheus-s-costa
+
+    🌱 I’m currently learning Frameworks, APIs
+
+    👨‍💻 All of my projects are available at https://myportfoliomsc.herokuapp.com/
+
+    💬 Ask me about python, js
+
+    📫 How to reach me matheusilva334@gmail.com
+
+    ⚡ Fun fact I think im funny
+
+Connect with me:
+
+matheus-costa-a95722197 user:20028798 matheus_costaa7 mathcosta#1245 
